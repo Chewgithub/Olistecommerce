@@ -19,3 +19,4 @@ deactivate; virtualenv ~/venv ; source ~/venv/bin/activate ;\
 
 # Analysis
 - This project run exploratory data analysis on data from raw_data folder, these raw data is not present in this repository, if you wish to run the re-run the cell, please download all dataset from data source as stated above in raw_data/csv/
+- To view the seller_analysis_and_solution.ipynb in full, please paste this link: https://raw.githubusercontent.com/Chewgithub/Olistecommerce/master/notebooks/seller_analysis_and_solution.ipynb in https://nbviewer.org/ search bar.
